@@ -1,5 +1,5 @@
 function add(a, b) {
-    return a - b; // Intentional defect
+    return a + b;
 }
 
 module.exports = { add };
